@@ -1,0 +1,7 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.97.0
+anthropic==0.18.0
+gunicorn==21.2.0
